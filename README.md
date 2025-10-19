@@ -26,7 +26,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 - **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-9966ff?logo=mysql&logoColor=f1f1f1)&nbsp;, ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-9966ff?logo=postgresql&logoColor=f1f1f1)&nbsp;, ![MongoDB](https://img.shields.io/badge/-MongoDB-9966ff?logo=mongodb&logoColor=f1f1f1)&nbsp;,  ![SQLite](https://img.shields.io/badge/SQLite-9966ff?logo=sqlite&logoColor=f1f1f1) ,  ![Supabase](https://img.shields.io/badge/-Supabase-9966ff?logo=supabase&logoColor=f1f1f1)&nbsp;  
 - **Control de Versiones**: ![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)&nbsp;,  ![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)&nbsp;
 - **Cloud Computing**:  ![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-9966ff?logo=googlecloud&logoColor=f1f1f1)&nbsp;
-- **Otros**: ![Jupyter](https://img.shields.io/badge/-Jupyter-9966ff?logo=jupyter&logoColor=f1f1f1)&nbsp;, ![Anaconda](https://img.shields.io/badge/-Anaconda-9966ff?logo=anaconda&logoColor=f1f1f1)&nbsp;, ![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;, ![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;,  ![Postman](https://img.shields.io/badge/-Postman-9966ff?logo=postman&logoColor=f1f1f1)&nbsp;, ![Spyder](https://img.shields.io/badge/-Spyder-9966ff?logo=spyderide&logoColor=f1f1f1)&nbsp;,  ![LaTeX](https://img.shields.io/badge/LaTeX-9966ff?logo=latex&logoColor=f1f1f1) , ![Confluence](https://img.shields.io/badge/Confluence-9966ff?logo=confluence&logoColor=f1f1f1)
+- **Otros**: ![Jupyter](https://img.shields.io/badge/-Jupyter-9966ff?logo=jupyter&logoColor=f1f1f1)&nbsp;, ![Anaconda](https://img.shields.io/badge/-Anaconda-9966ff?logo=anaconda&logoColor=f1f1f1)&nbsp;, ![Terminal](https://badgen.net/badge/icon/Terminal?icon=terminal&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;, ![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;,  ![Postman](https://img.shields.io/badge/-Postman-9966ff?logo=postman&logoColor=f1f1f1)&nbsp;, ![Spyder](https://img.shields.io/badge/-Spyder-9966ff?logo=spyderide&logoColor=f1f1f1)&nbsp;,  ![LaTeX](https://img.shields.io/badge/LaTeX-9966ff?logo=latex&logoColor=f1f1f1) , ![Confluence](https://img.shields.io/badge/Confluence-9966ff?logo=confluence&logoColor=f1f1f1) , ![Markdown](https://img.shields.io/badge/Markdown-9966ff?logo=markdown&logoColor=f1f1f1)
 
 ## Proyectos Destacados
 
@@ -41,20 +41,31 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 ## GitHub Analytics
 
-#### Most used lenguages
-<a href="https://github.com/jasonssdev">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonssdev&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <b>Most used lenguages</b><br>
+      <a href="https://github.com/jeframar">
+        <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeframar&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
+      </a>
+    </td>
+    <td align="center">
+      <b>Github stats</b><br>
+      <a href="https://github.com/jeframar">
+        <img height="250" src="https://github-readme-stats.vercel.app/api?username=jeframar&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>Streak Stats</b><br>
+      <a href="https://github.com/jeframar">
+        <img height="250" src="https://streak-stats.demolab.com/?user=jeframar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### Github stats
-<a href="https://github.com/jasonssdev">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jasonssdev&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
-</a>
-
-#### Streak Stats
-<a href="https://github.com/jasonssdev">
-  <img height=250 align="center" src="https://streak-stats.demolab.com/?user=jasonssdev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
-</a>
 
 ## Contacto
 
