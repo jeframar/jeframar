@@ -3,7 +3,7 @@
 <p>Yo soy...</p>
 
 <a href="https://github.com/jeframar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Analista+de+datos;Antropologo;Ingeniero+de+IA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Analista+de+datos;Antrop%C3%B3logo;Ingeniero+de+IA" />
 </a>
 
 
