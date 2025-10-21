@@ -69,7 +69,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 - 📧 **Email**: [jeanfranco_2809@hotmail.com](mailto:jeanfranco_2809@hotmail.com)  
 - 💼 **LinkedIn**: [Jean Franco Martinez](https://www.linkedin.com/in/jeframar)  
-- 👨🏽‍💻 **Behance**: [Aqui puedes leer algunos de mis posts](https://www.behance.net/ibsendisena)   
+- 👨🏽‍💻 **Blog**: [Aqui puedes leer algunos de mis posts](https://jeframar.github.io/blog/)   
 
 ---
 
