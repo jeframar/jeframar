@@ -10,8 +10,11 @@
 ## Acerca de mí
 
 💼 **Puesto actual**: Asistente de Monitoreo
-🌱 **Aprendizaje actual**: Git, GitHub. 
+
+🌱 **Aprendizaje actual**: Git y GitHub. 
+
 💬 **Pregúntame sobre**: Ciencia de datos, IA y sistemas sociotécnicos.  
+
 ⚡ **Dato curioso**: No publico en mis otras redes. 😄
 
 ## Habilidades y Tecnologías
