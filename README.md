@@ -9,8 +9,8 @@
 
 ## Acerca de mí
 
-💼 **Puesto actual**: Analista de Datos Sociales  
-🌱 **Aprendizaje actual**: Git, GitHub y herramientas de automatización como n8n  
+💼 **Puesto actual**: Asistente de Monitoreo
+🌱 **Aprendizaje actual**: Git, GitHub. 
 💬 **Pregúntame sobre**: Ciencia de datos, IA y sistemas sociotécnicos.  
 ⚡ **Dato curioso**: No publico en mis otras redes. 😄
 
@@ -20,7 +20,7 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me encanta t
 
 - **Análisis de datos**: ![Python](https://img.shields.io/badge/-Python-9966ff?logo=python&logoColor=f1f1f1)&nbsp;, ![R](https://img.shields.io/badge/-R-9966ff?logo=r&logoColor=f1f1f1)&nbsp;,  ![Stata](https://img.shields.io/badge/-Stata-9966ff?logo=gnuplot&logoColor=f1f1f1)&nbsp;   
 - **Visualización de datos**: ![PowerBI](https://img.shields.io/badge/-PowerBI-9966ff?logo=googleanalytics&logoColor=f1f1f1)&nbsp;, ![Tableau](https://img.shields.io/badge/-Tableau-9966ff?logo=tableau&logoColor=f1f1f1)&nbsp;,  ![Looker](https://img.shields.io/badge/-Looker-9966ff?logo=looker&logoColor=f1f1f1)&nbsp;
-- **IA**: ![ChatGPT](https://img.shields.io/badge/-ChatGPT-9966ff?logo=openai&logoColor=f1f1f1)&nbsp;, ![Claude](https://img.shields.io/badge/-Claude-9966ff?logo=claude&logoColor=f1f1f1)&nbsp;, ![Gemini](https://img.shields.io/badge/-Gemini-9966ff?logo=google+gemini&logoColor=f1f1f1)&nbsp;,  ![Lanchain](https://img.shields.io/badge/-Langchain-9966ff?logo=langchain&logoColor=f1f1f1)&nbsp;
+- **IA y automatización**: ![ChatGPT](https://img.shields.io/badge/-ChatGPT-9966ff?logo=openai&logoColor=f1f1f1)&nbsp;, ![Claude](https://img.shields.io/badge/-Claude-9966ff?logo=claude&logoColor=f1f1f1)&nbsp;, ![Gemini](https://img.shields.io/badge/-Gemini-9966ff?logo=google+gemini&logoColor=f1f1f1)&nbsp;,  ![Lanchain](https://img.shields.io/badge/-Langchain-9966ff?logo=langchain&logoColor=f1f1f1)&nbsp; , ![n8n](https://img.shields.io/badge/-n8n-9966ff?logo=n8n&logoColor=f1f1f1)
 - **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-9966ff?logo=mysql&logoColor=f1f1f1)&nbsp;, ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-9966ff?logo=postgresql&logoColor=f1f1f1)&nbsp;, ![MongoDB](https://img.shields.io/badge/-MongoDB-9966ff?logo=mongodb&logoColor=f1f1f1)&nbsp;,  ![SQLite](https://img.shields.io/badge/SQLite-9966ff?logo=sqlite&logoColor=f1f1f1) ,  ![Supabase](https://img.shields.io/badge/-Supabase-9966ff?logo=supabase&logoColor=f1f1f1)&nbsp;  
 - **Control de Versiones**: ![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)&nbsp;,  ![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)&nbsp;
 - **Cloud Computing**:  ![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-9966ff?logo=googlecloud&logoColor=f1f1f1)&nbsp;
