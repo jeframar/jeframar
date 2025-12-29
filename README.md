@@ -1,19 +1,22 @@
 # Hola, soy Jean Franco 👋
 
 <a href="https://github.com/jeframar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Analista+de+datos;Antrop%C3%B3logo;Ingeniero+de+IA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Analista+de+datos+sociales;Antrop%C3%B3logo" />
 </a>
 
+<!--
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Analista+de+datos;Antrop%C3%B3logo;Ingeniero+de+IA" />
+-->
 
 ¡Bienvenid@ a mi GitHub!
 
 ## Acerca de mí
 
-💼 **Puesto actual**: Asistente de Monitoreo
+💼 **Puesto actual**: Asistente de Monitoreo de Capacitación
 
-🌱 **Aprendizaje actual**: Stata. 
+🌱 **Aprendizaje actual**: Futures Thinking en Coursera. 
 
-💬 **Pregúntame sobre**: Ciencia de datos, IA y sistemas sociotécnicos.  
+💬 **Pregúntame sobre**: Ciencia de datos e IA, sistemas sociotécnicos y políticas públicas.  
 
 ⚡ **Dato curioso**: No publico en mis otras redes. 😄
 
